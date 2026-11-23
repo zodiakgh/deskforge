@@ -1,0 +1,8 @@
+{
+  "name": "@deskforge/sdk",
+  "version": "0.1.0",
+  "description": "TypeScript typings for the window.deskforge API available inside Deskforge plugins.",
+  "types": "index.d.ts",
+  "files": ["index.d.ts", "README.md"],
+  "license": "MIT"
+}

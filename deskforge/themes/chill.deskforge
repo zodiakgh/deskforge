@@ -1,0 +1,14 @@
+{
+  "deskforge": 1,
+  "profile": {
+    "id": "chill-example",
+    "name": "Chill (example)",
+    "wallpaper": { "enabled": false, "kind": "shader", "path": "", "shaderId": "aurora", "pluginId": "", "fit": "cover", "pauseOnFullscreen": true },
+    "visualizer": { "enabled": true, "style": "bars", "color": "", "sensitivity": 1, "position": "bottom" },
+    "widgets": [
+      { "id": "a1", "type": "clock", "x": 6, "y": 8, "w": 24, "h": 20, "bg": 0, "blur": 0, "accent": "", "settings": { "hour12": false, "seconds": false } },
+      { "id": "a2", "type": "date", "x": 6, "y": 29, "w": 24, "h": 8, "bg": 0, "blur": 0, "accent": "", "settings": {} },
+      { "id": "a3", "type": "music", "x": 6, "y": 76, "w": 26, "h": 15, "bg": 0.35, "blur": 14, "accent": "", "settings": {} }
+    ]
+  }
+}
